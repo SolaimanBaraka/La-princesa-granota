@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBYT/iFhd7Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Solaiman Baraka\\Desktop\\La princesa granota\\La princesa granota\\La princesa granota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Solaiman Baraka\\.nuget\\packages\\heirloom.core\\1.0.2-beta\\heirloom.core.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Solaiman Baraka\\.nuget\\packages\\heirloom.desktop\\1.0.2-beta\\heirloom.desktop.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Solaiman Baraka\\.nuget\\packages\\heirloom.miniaudio\\1.0.2-beta\\heirloom.miniaudio.1.0.2-beta.nupkg.sha512",
+    "C:\\Users\\Solaiman Baraka\\.nuget\\packages\\heirloom.opengles\\1.0.2-beta\\heirloom.opengles.1.0.2-beta.nupkg.sha512"
+  ],
+  "logs": []
+}

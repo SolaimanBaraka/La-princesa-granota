@@ -1,0 +1,33 @@
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.exe
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\PNG\11f73266884acf9424f012e7cccc2c3d.png
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\PNG\Ariel-PNG-Image.png
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\PNG\Jesus.png
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\PNG\manzana.png
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\PNG\princesa.png
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\PNG\win.png
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\PNG\yisus.png
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.deps.json
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.runtimeconfig.json
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\La princesa granota.pdb
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.Core.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.Desktop.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.MiniAudio.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\Heirloom.OpenGLES.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\linux-x64\native\libglfw3.so
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\osx-x64\native\libglfw3.dylib
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\win-x64\native\glfw3.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\linux-x64\native\libminiaudio.so
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\osx-x64\native\libminiaudio.dylib
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\bin\Debug\net8.0\runtimes\win-x64\native\miniaudio.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.csproj.AssemblyReference.cache
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.AssemblyInfoInputs.cache
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.AssemblyInfo.cs
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.csproj.CoreCompileInputs.cache
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princ.A4E4303D.Up2Date
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\refint\La princesa granota.dll
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.pdb
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\La princesa granota.genruntimeconfig.cache
+C:\Users\Solaiman Baraka\Desktop\La princesa granota\La princesa granota\obj\Debug\net8.0\ref\La princesa granota.dll
